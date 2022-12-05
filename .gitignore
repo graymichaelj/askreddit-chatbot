@@ -129,3 +129,9 @@ dmypy.json
 .pyre/
 
 localnotes.txt
+.vscode/
+model/
+
+cache/
+
+.DS_Store
